@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/ak_ruster?t=lqmuwpdm0vfolbjz7yqsjw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/ak_ruster?t=lqmuwpdm0vfolbjz7yqsjw&s=09" height="40" width="50" /></a>
+<a href="https://x.com/ak_ruster?t=LQmuwpDm0vfolBjZ7Yqsjw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/ak_ruster?t=LQmuwpDm0vfolBjZ7Yqsjw&s=09" height="40" width="50" /></a>
 <a href="https://www.linkedin.com/in/md-amir-071516231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-amir-071516231" height="40" width="50" /></a>
 <a href="https://discord.gg/https://discord.com/invite/cuzAkWf7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/cuzAkWf7" height="40" width="50" /></a>
 </p>
