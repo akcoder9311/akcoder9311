@@ -9,18 +9,17 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Backend Engineering Lead working for a Health Tech startup in India 
+- 🏦 I'm a FullStack Engineering Lead working for a Health/Blockchain Tech startup in India 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
+- 💻 I use daily: **HTML**, **CSS**, **.JS**,  **Reactjs**, **Nextjs**, **Tailwind** 
 - 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups
+- 💬 Talk to me about History, Js (both of these are not any kind of insect or animals), Silicon Valley & startups
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="[https://www.vectorlogo.zone/logos/java/java-icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dhtml%2BIcon&psig=AOvVaw2PJtDh-EjfftujQd1MkoIv&ust=1737276120324000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCU4YXw_ooDFQAAAAAdAAAAABAE)" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
