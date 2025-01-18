@@ -19,9 +19,9 @@
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dhtml%2BIcon&psig=AOvVaw2PJtDh-EjfftujQd1MkoIv&ust=1737276120324000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCU4YXw_ooDFQAAAAAdAAAAABAE)](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F158843%2Fhtml&psig=AOvVaw3SRrET1V5NK5R_NfUhvfTZ&ust=1737276193631000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjU0PDw_ooDFQAAAAAdAAAAABAP" alt="java" width="65" height="65"/> 
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fhtml-5_919827&psig=AOvVaw3bgYiAud54tPgis3CFtCwb&ust=1737298447588000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC41aDD_4oDFQAAAAAdAAAAABAE" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="spring" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
