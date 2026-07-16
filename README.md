@@ -43,7 +43,4 @@
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/akcoder9311/akcoder9311/blob/main/rust-logo-512x512.png" alt="rust" width="50" height="50"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akcoder9311&show_icons=true&locale=en&layout=compact" alt="akcoder9311" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akcoder9311&show_icons=true&locale=en" alt="akcoder9311" /></p>
 
