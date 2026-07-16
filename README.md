@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [BDRl](https://admin.bdrl.co.in/login)
+- 🔭 I’m currently working on AI-plateform
 
 - 🌱 I’m currently learning **Nextjs**
 
 - 👯 I’m looking to collaborate on **Nextjs Projects**
 
-- 💬 Ask me about **html, css, js, reactjs, tailwind, Nextjs**
+- 💬 Ask me about **html, css, JavaScript, reactjs, react-native tailwind, Nextjs, TypeScript**
 
 - 📫 How to reach me **mohdamir787000@gmail.com**
 
